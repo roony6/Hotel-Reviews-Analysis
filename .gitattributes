@@ -1,0 +1,2 @@
+Classification/Hotel_Reviews_Milestone_2.csv filter=lfs diff=lfs merge=lfs -text
+Regression/Hotel_Reviews.csv filter=lfs diff=lfs merge=lfs -text
